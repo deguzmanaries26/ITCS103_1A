@@ -10,4 +10,3 @@ if len(word) > sum(num_list) / len(num_list):
     print(f"The length of the word '{word}' is above the average of the numbers.")
 else:
     print(f"The length of the word '{word}' is below the average of the numbers.")
-
